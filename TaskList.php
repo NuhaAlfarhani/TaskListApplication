@@ -1,7 +1,5 @@
 <?php
 
-echo "Hello World!";
-
 class TaskList
 {
     private $tasks = [];
